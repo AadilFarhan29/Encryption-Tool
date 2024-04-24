@@ -25,6 +25,7 @@ Python: The script is written in Python, so you need to have Python installed on
 It is important to note that, It will only Encrypt and Decrypt the files that are present inside the same file as the python files. 
 
 1. Encrypting the files
+   
    ```python3 Encryption.py```
 2. Decrypting the files
 
