@@ -1,7 +1,7 @@
 # Encryption Tool 
 
 Encryption script essentially scans through files in the directory, excluding certain files from encryption, generates a key, encrypts each eligible file's contents, and saves the key for potential decryption later.
-Decryption script performs decryption of files previously encrypted using Fernet encryption. 
+Decryption script performs decryption of files previously encrypted using Fernet encryption.
 
 # Installation 
 
