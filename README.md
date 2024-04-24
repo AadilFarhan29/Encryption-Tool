@@ -8,6 +8,7 @@ Decryption script performs decryption of files previously encrypted using Fernet
 Python: The script is written in Python, so you need to have Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/
 
 1. Check python version
+
   ```python3 --version```
 
 2. If Python is not installed, you can install it using your package manager. For example, on Ubuntu, you can install Python with the following command:
