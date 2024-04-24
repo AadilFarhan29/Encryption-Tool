@@ -19,7 +19,7 @@ Python: The script is written in Python, so you need to have Python installed on
 
 3. Git clone
   
-  ```https://github.com/AadilFarhan29/Encryption-Tool.git```
+    ```https://github.com/AadilFarhan29/Encryption-Tool.git```
 
 # Usage 
 It is important to note that, It will only Encrypt and Decrypt the files that are present inside the same file as the python files. 
